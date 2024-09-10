@@ -73,7 +73,7 @@ const portfolioData = {
       description: "Lend or rent your personal items, 'The airbnb for things'",
       details:
         "• Developed the user interface for the desktop view, ensuring a clean, intuitive, and visually appealing design.\n• Implemented a comprehensive user dashboard for transaction management.\n• Redesigned the mobile view to optimize the user experience on smaller screens.",
-      url: "https://ukuu.com",
+      url: "https://beta.ukuu.io",
       screenshots: [ukuu1, ukuu2],
     },
   ],
