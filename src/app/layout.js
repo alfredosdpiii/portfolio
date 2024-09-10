@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Alfredo Dela Peña III",
+  title: "Alfredo Dela Peña III - Full Stack Software Engineer",
   description: "Full Stack Software Engineer",
 };
 
