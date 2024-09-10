@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { ExternalLink, ChevronLeft, ChevronRight, X } from "lucide-react";
 import Image from "next/image";
 
@@ -26,6 +26,10 @@ const FullScreenImage = ({ src, alt, onClose }) => {
 const ImageGallery = ({ screenshots }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [fullScreenImage, setFullScreenImage] = useState(null);
+
+  useEffect(() => {
+    setCurrentIndex(0);
+  }, [screenshots]);
 
   const goToPrevious = () => {
     setCurrentIndex((prevIndex) =>
