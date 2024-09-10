@@ -12,6 +12,12 @@ import roomie4 from "./assets/roomie/roomie4.jpg";
 import ukuu1 from "./assets/ukuu/ukuu1.png";
 import ukuu2 from "./assets/ukuu/ukuu2.png";
 
+export const metadata = {
+  title: "Alfredo S. Dela Peña III - Full Stack Software Engineer Portfolio",
+  description:
+    "Explore the projects and skills of Alfredo S. Dela Peña III, a dedicated Full Stack Software Engineer specializing in modern web technologies.",
+};
+
 const portfolioData = {
   about:
     "Alfredo S. Dela Peña III - TypeScript wizard crafting pixel-perfect React apps - I am a dedicated Full Stack Software Engineer with expertise in TypeScript, JavaScript, and React. I thrive on solving complex problems and delivering high-quality, maintainable code.",

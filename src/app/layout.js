@@ -15,8 +15,11 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Alfredo Dela Peña III - Full Stack Software Engineer",
-  description: "Full Stack Software Engineer",
+  title: "Alfredo S. Dela Peña III - Full Stack Software Engineer",
+  description:
+    "Dedicated Full Stack Software Engineer with expertise in TypeScript, JavaScript, React, and more. View my portfolio and projects.",
+  keywords:
+    "Full Stack Developer, Software Engineer, Web Development, React, Node.js, JavaScript, TypeScript",
 };
 
 export default function RootLayout({ children }) {
