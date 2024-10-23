@@ -25,7 +25,7 @@ const portfolioData = {
     {
       title: "Full Stack Software Engineer",
       company: "Proudcloud",
-      date: "August 2022 - Present",
+      date: "August 2022 - October 2024",
       description:
         "full stack agile software engineering teams for startups, scaleups, and tech-enabled ventures.",
     },
