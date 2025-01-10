@@ -20,18 +20,31 @@ export const metadata = {
 
 const portfolioData = {
   about:
-    "Alfredo S. Dela Peña III - TypeScript wizard crafting pixel-perfect React apps - I am a dedicated Full Stack Software Engineer with expertise in TypeScript, JavaScript, and React. I thrive on solving complex problems and delivering high-quality, maintainable code.",
+    "Alfredo S. Dela Peña III - Full Stack Software Engineer pivoting to AI and ML. Accelerationist",
   experience: [
     {
+      title: "Full Stack Software Engineer / AI Engineer",
+      company: "Generative AI Labs - San Francisco CA, USA",
+      date: "December 2024 - Present",
+      description: "Everything AI-powered",
+    },
+    {
+      title: "Full Stack Software Engineer / AI Engineer",
+      company: "Lawlab Pty. - Sydney, AUS",
+      date: "December 2024 - Present",
+      description:
+        "Lawlab, a trusted and proven digital conveyancer helping you buy and sell properties smarter, faster and more securely nation-wide across Australia.",
+    },
+    {
       title: "Full Stack Software Engineer",
-      company: "Proudcloud",
+      company: "Proudcloud - Quezon city, PH",
       date: "August 2022 - October 2024",
       description:
         "full stack agile software engineering teams for startups, scaleups, and tech-enabled ventures.",
     },
     {
       title: "Frontend Engineer",
-      company: "Digispark Tech Corp",
+      company: "Digispark Tech Corp - BGC, PH",
       date: "February 2020 - June 2020",
       description: "Solutions Provider",
     },
