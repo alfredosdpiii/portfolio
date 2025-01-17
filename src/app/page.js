@@ -24,17 +24,17 @@ const portfolioData = {
   experience: [
     {
       title: "Full Stack Software Engineer / AI Engineer",
-      company: "Generative AI Labs - San Francisco CA, USA",
+      company: "Generative AI Labs - Delaware, USA",
       date: "December 2024 - Present",
       description: "Everything AI-powered",
     },
-    {
-      title: "Full Stack Software Engineer / AI Engineer",
-      company: "Lawlab Pty. - Sydney, AUS",
-      date: "December 2024 - Present",
-      description:
-        "Lawlab, a trusted and proven digital conveyancer helping you buy and sell properties smarter, faster and more securely nation-wide across Australia.",
-    },
+    // {
+    //   title: "Full Stack Software Engineer / AI Engineer",
+    //   company: "Lawlab Pty. - Sydney, AUS",
+    //   date: "December 2024 - Present",
+    //   description:
+    //     "Lawlab, a trusted and proven digital conveyancer helping you buy and sell properties smarter, faster and more securely nation-wide across Australia.",
+    // },
     {
       title: "Full Stack Software Engineer",
       company: "Proudcloud - Quezon city, PH",
